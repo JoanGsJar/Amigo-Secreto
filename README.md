@@ -18,7 +18,5 @@ El usuario podrá añadir nombres a través de un campo de texto y un botón "Ad
 
 - **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo",** se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-## Authors
 
-- [@Tiramisu-code](https://github.com/Tiramisu-code)
 
